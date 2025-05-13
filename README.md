@@ -31,37 +31,10 @@ email = "riskhanmohamed44@gmail.com"
 
 
 🧰 Languages & Tools I Use
-
-🛠️ .NET Stack
-<img alt=".NET" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
-<img alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
-<img alt="Visual Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" />
-<img alt="Entity Framework" width="40px" src="https://seeklogo.com/images/E/entity-framework-logo-8D7D6F4DA0-seeklogo.com.png" />
-<img alt="SQL Server" width="40px" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
-
-🌐 Web & Others
-<img alt="HTML5" width="40px" src="https://img.icons8.com/color/48/html-5.png" />
-<img alt="CSS3" width="40px" src="https://img.icons8.com/color/48/css3.png" />
-<img alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/javascript.png" />
-<img alt="Git" width="40px" src="https://img.icons8.com/color/48/git.png" />
-<img alt="GitHub" width="40px" src="https://img.icons8.com/material-outlined/48/github.png" />
-<img alt="Postman" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" />
-<img alt="Azure" width="40px" src="https://img.icons8.com/color/48/microsoft-azure.png" />
-
-
-
-
-<br />
-<br />
-
-
-## Github Trophy🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/itsyogieu)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyogieu&theme=chartreuse-dark&hide_border=True" alt="itsyogieu"/></p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20💙-red?style=for-the-badge&logo=github"/>
-</p>
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
+[<img align="left" alt="Linux" width="26px" src="https://telegra.ph/file/632a53dc7a08b08ebdeef.jpg" />](https://www.telegram.org/)
+[<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
+[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 
